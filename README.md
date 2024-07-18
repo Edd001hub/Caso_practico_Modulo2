@@ -9,4 +9,4 @@ En la información se aprecia el estado de resultados de la ventas de una tienda
 Relizar una limpieza de datos para la visualización y transformación de los mismos, con el fin de mostrar datos relevantes para la toma de desciciones por los encargados.
 
 
-(https://github.com/user-attachments/assets/11ffad42-d38a-4dfe-b367-0391ba31668b)
+<img (https://github.com/user-attachments/assets/11ffad42-d38a-4dfe-b367-0391ba31668b)>
