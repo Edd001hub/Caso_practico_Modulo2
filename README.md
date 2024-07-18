@@ -15,9 +15,11 @@ A continuación se presntara la visualizacion de la informacion ya tranformada c
 
 
 ![Ventas Realizadas](https://github.com/user-attachments/assets/df6cf0d7-b600-47de-9365-d2c3eb26eccf)
+
 **Imagen 1** *muestra las ventas por categoria*
 
 ![Ganancias mensuales](https://github.com/user-attachments/assets/0887c1c3-e9b9-4e96-9caf-7e20f4f54d6d)
+
 **Imagen 2** *muestra las ganancias del año*
 
 
