@@ -28,7 +28,9 @@ Las ganancias totales fueron **$ 456,000.00**, de las cuales el sexo Femenino ti
 Las ventas de los 3 productos tienen una variable del 1 a 3 en porcentaje conforme a las ventas Totales como se muestra en la siguiente tabla
 
 -Electronica: $ 156,905.00  34.41%
+
 -Ropa: $ 155,580.00  34.12%
+
 -Belleza: $ 143,515.00  31.47%
 
  Se realizo un Ranking para determinar el rango de edad con mas consumo se clasifico del minimo a maximo de ventas realizadas en el año, dado como resultado 3 edades con la cantidades mas altas de compra que fueron de (26,34,43).
